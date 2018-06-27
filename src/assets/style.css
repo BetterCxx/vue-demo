@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.el-header {
+    line-height: 60px;
+    border-bottom: 1px solid #ddd;
+}
+.el-aside{
+    height: 100vh;
+    background: #545c64;
+}
+.logo{
+    height: 80px;
+    text-align: center;
+    background: rgb(84, 92, 100);
+}
+.logo img{
+    height: 50px;
+    margin-top: 10px;
+}
+.el-menu {
+    border-right: solid 1px #545c64;
+}
+.page{
+    margin-top: 30px;
+    text-align: right;
+}
+.chart-title{
+    margin: 30px 0;
+    text-align: center;
+    font-size: 18px;
+}
